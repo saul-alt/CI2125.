@@ -17,6 +17,7 @@
           ];
           nativeBuildInputs =
             [ pkgs.libgcc
+              pkgs.obs-studio
             ];
         };
       };
