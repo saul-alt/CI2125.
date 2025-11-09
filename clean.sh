@@ -1,1 +1,2 @@
-rm main.sh
+#!/bin/bash
+rm -rf build/

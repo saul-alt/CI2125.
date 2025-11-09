@@ -1,0 +1,49 @@
+# C++ build artifacts
+*.o
+*.out
+*.exe
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Compiled executables
+build/
+*.sh
+!build.sh
+!clean.sh
+
+# Object files
+*.slo
+*.lo
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lai
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Replit specific
+.replit
+.upm
+.breakpoints
+.cache
+.config
